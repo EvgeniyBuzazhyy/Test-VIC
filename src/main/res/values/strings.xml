@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тест на ВИЧ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="exit">Вы зарегистрированы!</string>
+    <string name="exitLogin">Выйти?</string>
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="ok">Ок</string>
+
+    <string name="title_login">Вход в систему</string>
+    <string name="text_login">Логин</string>
+    <string name="text_password">Пароль</string>
+
+    <string name="button_enter">Вход</string>
+    <string name="button_exit">Выход</string>
+    <string name="button_registration">Регистрация</string>
+
+    <string name="title_registration">Регистрация</string>
+    <string name="text_email">Email</string>
+    <string name="captcha">2+2=</string>
+
+    <string name="button_more">Больше</string>
+    <string name="button_start_test">Пройти Тест</string>
+
+    <string name="button_back">Назад</string>
+    <string name="button_next">Далее</string>
+    <string name="button_end">Завершить</string>
+    <string name="radio_button_mykolaiv">Николаев</string>
+    <string name="radio_button_kyiv">Киев</string>
+    <string name="radio_button_kharkiv">Харьков</string>
+    <string name="radio_button_odesa">Одесса</string>
+    <string name="radio_button_lviv">Львов</string>
+    <string name="radio_button_zhytomyr">Житомир</string>
+
+    <string name="title_send_data">Спасибо тест окончен</string>
+    <string name="button_send_data">Отправить данные на сервер</string>
+    <string name="button_new_test">Новый тест</string>
+
+
+
+    <string name="f1_text_chbox_1">Друзья/Семья</string>
+    <string name="f1_text_chbox_2">Интернет</string>
+    <string name="f1_text_chbox_3">Посещение магазина</string>
+    <string name="f1_text_chbox_4">Реклама</string>
+    <string name="f1_text_chbox_5">Аптека</string>
+    <string name="f1_text_chbox_6">Медицинский работник</string>
+    <string name="f1_text_chbox_7">Фестивали/Вечеринки</string>
+    <string name="f1_text_chbox_8">Газеты/ТВ</string>
+
+    <string name="f3_text_raButt_1">Женщина</string>
+    <string name="f3_text_raButt_2">Мужчина</string>
+    <string name="f3_text_raButt_3">Трансгендер(М-Ж)</string>
+    <string name="f3_text_raButt_4">Трансгендер(Ж-М)</string>
+    <string name="f3_text_raButt_5">Другой</string>
+
+    <string name="f4_text_raButt_1">Мужчинам</string>
+    <string name="f4_text_raButt_2">Женщинами</string>
+    <string name="f4_text_raButt_3">И Мужчинами и Женщинами</string>
+    <string name="f4_text_raButt_4">Трансгендерами</string>
+    <string name="f4_text_raButt_5">Всеми</string>
+    <string name="f4_text_raButt_6">Отказ от ответа</string>
+
+    <string name="f5_text_raButt_1">Не знает</string>
+    <string name="f5_text_raButt_2">Да</string>
+    <string name="f5_text_raButt_3">Нет</string>
+    <string name="f5_text_raButt_4">Отказ от ответа</string>
+
+    <string name="f7_text_raButt_1">Не знает</string>
+    <string name="f7_text_raButt_2">Да (в течении 6 месяцев)</string>
+    <string name="f7_text_raButt_3">Да (в течении 12 месяцев)</string>
+    <string name="f7_text_raButt_4">Да (более 12 месяцев назад)</string>
+    <string name="f7_text_raButt_5">Отказ от ответа</string>
+    <string name="f7_text_raButt_6">Нет</string>
+
+    <string name="f9_text_raButt_1">Не знает</string>
+    <string name="f9_text_raButt_2">Позитивный</string>
+    <string name="f9_text_raButt_3">Подтверждение ВИЧ</string>
+    <string name="f9_text_raButt_4">Негативный</string>
+    <string name="f9_text_raButt_5">Отказ от ответа</string>
+    <string name="f9_text_raButt_6">Не определен</string>
+
+
+    <string name="f10_text_raButt_1">В течении 6 месяцев</string>
+    <string name="f10_text_raButt_2">В течении 6-12 месяцев</string>
+    <string name="f10_text_raButt_3">Более чем 12 месяцев</string>
+
+
+
+    <string name="incorrect_log_or_pass">Неверный логин или пароль</string>
+    <string name="error_registration">Регистрация не удалась, попробуйте еще раз</string>
+    <string name="login_exists">Такой логин уже существует</string>
+    <string name="email_exists">Такой email уже существует</string>
+    <string name="data_added">Данные добавлены</string>
+    <string name="error">Ошибка</string>
+
+
+    <string name="internet_disconnected">Подключение к интернету отсутствует!</string>
+    <string name="incorrect_email">Не корректный email</string>
+    <string name="length_login">Логин должен быть больше 4х символов</string>
+    <string name="length_password">Пароль должен быть длиной больше 6-ти символов</string>
+
+    <string name="data_already_added">Данные уже добавлены!</string>
+
+    <string name="question_number">Вопрос № </string>
+    <string name="question_1">Источник информации о сайте тестирования AHF?</string>
+    <string name="question_2">Ваш возраст?</string>
+    <string name="question_3">Какого Вы пола?</string>
+    <string name="question_4">У Вас были половые отношения?</string>
+    <string name="question_5">Использовали ли Вы презерватив во время последнего полового контакта?</string>
+    <string name="question_6">Предоставляли ли Вы услуги сексуального характера за деньги или наркотики в течении последних 12 месяцев?</string>
+    <string name="question_7">Проходили ли Вы тест на ВИЧ ранее?</string>
+    <string name="question_8">Другое, пожалуйста, уточните:"</string>
+    <string name="question_9">Какой последний результат тестирования на ВИЧ?</string>
+    <string name="question_10">Если Да, Проходил ли обследование в том же учреждении?</string>
+
+
+
+
+
+
+
+
+</resources>
